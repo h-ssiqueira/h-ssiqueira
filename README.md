@@ -1,4 +1,4 @@
-# 
+# Welcome to my profile
 ## README under development...
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-sartori-siqueira-38a46761/)
@@ -25,13 +25,10 @@
 
 ## Activity:
 
-<p align="center">
+<div>
     <a href="https://github.com/h-ssiqueira">
-    <img src="https://github-readme-stats.vercel.app/api?username=h-ssiqueira&hide=issues&show_icons=true,&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true"/>
-</p>
-<p align="center">
-	<a href="https://github.com/h-ssiqueira">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ssiqueira&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata"/>
-</p>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=h-ssiqueira&hide=issues&show_icons=true,&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true"/>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ssiqueira&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata"/>
+</div>
 
 ![Snake animation](https://github.com/h-ssiqueira/h-ssiqueira/blob/output/github-contribution-grid-snake.svg)

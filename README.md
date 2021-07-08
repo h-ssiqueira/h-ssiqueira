@@ -27,8 +27,8 @@
 
 <div>
     <a href="https://github.com/h-ssiqueira">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=h-ssiqueira&hide=issues&show_icons=true,&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ssiqueira&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ssiqueira&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h-ssiqueira&hide=issues&show_icons=true,&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true"/>
 </div>
 
 ![Snake animation](https://github.com/h-ssiqueira/h-ssiqueira/blob/output/github-contribution-grid-snake.svg)

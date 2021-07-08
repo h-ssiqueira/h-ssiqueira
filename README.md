@@ -33,4 +33,5 @@
 	<a href="https://github.com/h-ssiqueira">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ssiqueira&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata"/>
 </p>
+
 ![Snake animation](https://github.com/h-ssiqueira/h-ssiqueira/blob/output/github-contribution-grid-snake.svg)

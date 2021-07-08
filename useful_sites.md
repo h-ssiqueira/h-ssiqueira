@@ -3,16 +3,24 @@
 ## Feel free to contribute
 
 ## Summary
+* [Data](#Data)
 * [Decorations](#Decorations)
 * [Diagrams](#Diagrams)
 * [Files](#Files)
 * [Presentations](#Presentations)
 * [Workspaces](#Workspaces)
 
+## Data
+Site | Description
+:---: | :---:
+[Archive](https://archive.org/web/) | Archive of websites
+[Random](https://www.random.org/) | Random numbers
+
 ## Decorations
 Site | Description
 :---: | :---:
 [Github Badges](https://img.shields.io) | Badges for Github READMEs
+[ASCII text](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) | ASCII art letters
 
 ## Diagrams
 Site | Description

@@ -1,5 +1,5 @@
 # Welcome to my profile
-## README under development...
+## Profiles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-sartori-siqueira-38a46761/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h-ssiqueira)
@@ -27,8 +27,13 @@
 
 <div>
     <a href="https://github.com/h-ssiqueira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ssiqueira&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h-ssiqueira&hide=issues&show_icons=true,&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true"/>
+	<p align="center">
+    	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ssiqueira&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata&custom_title=Most recently used languages"/>
+    	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=h-ssiqueira&hide=issues&show_icons=true,&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true"/>
+	</p>
+	<img src="https://activity-graph.herokuapp.com/graph?username=h-ssiqueira&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark"/>
+
 </div>
 
 ![Snake animation](https://github.com/h-ssiqueira/h-ssiqueira/blob/output/github-contribution-grid-snake.svg)
+

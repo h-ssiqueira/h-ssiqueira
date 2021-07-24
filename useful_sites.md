@@ -35,6 +35,7 @@ Site | Description
 :---: | :---:
 [ILovePDF](https://www.ilovepdf.com/) | Tools for PDFs
 [ILoveIMG](https://www.iloveimg.com/) | Tools for IMG files
+[Conversor](https://conversor-pdf.com/konvertieren/) | Tools for convert files
 [VideoSmaller](https://www.videosmaller.com/) | Video compressing
 [QR Code Monkey](https://www.qrcode-monkey.com/) | Custom QR code generator
 [9xBuddy](https://9xbuddy.com/) | Online video downloader

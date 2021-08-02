@@ -3,6 +3,7 @@
 ## Feel free to contribute
 
 ## Summary
+* [Books](#Books)
 * [Data](#Data)
 * [Decorations](#Decorations)
 * [Diagrams](#Diagrams)
@@ -11,10 +12,17 @@
 * [Presentations](#Presentations)
 * [Workspaces](#Workspaces)
 
+## Books
+Site | Description
+:---: | :---:
+[PDF Drive](https://www.pdfdrive.com/) | Books in PDF
+[LibGen](https://libgen.is/) | Library books with references for projects
+
 ## Data
 Site | Description
 :---: | :---:
-[Archive](https://archive.org/web/) | Archive of websites
+[![Internet Archive](https://img.shields.io/badge/Internet%20Archive-666666?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/web/) | Archive of websites
+[OSDev](https://wiki.osdev.org/Expanded_Main_Page) | Wiki about operacional systems
 [Random](https://www.random.org/) | Random numbers
 [UserBenchmark](https://www.userbenchmark.com/) | Hardware comparison and statistics
 
@@ -37,6 +45,7 @@ Site | Description
 :---: | :---:
 [9xBuddy](https://9xbuddy.com/) | Online video downloader
 [Conversor](https://conversor-pdf.com/konvertieren/) | Tools for convert files
+[Free convert](https://www.freeconvert.com/) | Convert and compress files
 "link" + "youtube video link" | Download youtube videos
 [ILovePDF](https://www.ilovepdf.com/) | Tools for PDFs
 [ILoveIMG](https://www.iloveimg.com/) | Tools for IMG files
@@ -48,7 +57,7 @@ Site | Description
 :---: | :---:
 [Derivative calculator](https://www.derivative-calculator.net/) | Derivative calculator with steps
 [Integral calculator](https://www.integral-calculator.com/) | Integral calculator with steps
-[Octave](https://octave-online.net/) | Online octave software
+[![Octave](https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)](https://octave-online.net/) | Online octave software
 
 ## Presentations
 Site | Description

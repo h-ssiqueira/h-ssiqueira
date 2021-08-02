@@ -21,6 +21,7 @@ Site | Description
 ## Data
 Site | Description
 :---: | :---:
+[ASCII table](https://theasciicode.com.ar/) | Complete ASCII table
 [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-666666?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/web/) | Archive of websites
 [OSDev](https://wiki.osdev.org/Expanded_Main_Page) | Wiki about operacional systems
 [Random](https://www.random.org/) | Random numbers

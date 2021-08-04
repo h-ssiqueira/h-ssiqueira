@@ -8,6 +8,7 @@
 * [Decorations](#Decorations)
 * [Diagrams](#Diagrams)
 * [Files](#Files)
+* [Free images](#Free-images)
 * [Math](#Math)
 * [Presentations](#Presentations)
 * [Workspaces](#Workspaces)
@@ -23,6 +24,7 @@ Site | Description
 :---: | :---:
 [ASCII table](https://theasciicode.com.ar/) | Complete ASCII table
 [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-666666?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/web/) | Archive of websites
+[Mussum Ipsum](https://mussumipsum.com/) | Lorem ipsum paragraph generator
 [OSDev](https://wiki.osdev.org/Expanded_Main_Page) | Wiki about operacional systems
 [Random](https://www.random.org/) | Random numbers
 [UserBenchmark](https://www.userbenchmark.com/) | Hardware comparison and statistics
@@ -30,6 +32,7 @@ Site | Description
 ## Decorations
 Site | Description
 :---: | :---:
+[Emojipedia](https://emojipedia.org/) | All emojis
 [Github Badges](https://img.shields.io) | Badges for Github READMEs
 [ASCII text](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) | ASCII art letters
 
@@ -46,12 +49,28 @@ Site | Description
 :---: | :---:
 [9xBuddy](https://9xbuddy.com/) | Online video downloader
 [Conversor](https://conversor-pdf.com/konvertieren/) | Tools for convert files
+[Favicon](https://favicon.io/) | Generate icons
 [Free convert](https://www.freeconvert.com/) | Convert and compress files
 "link" + "youtube video link" | Download youtube videos
 [ILovePDF](https://www.ilovepdf.com/) | Tools for PDFs
 [ILoveIMG](https://www.iloveimg.com/) | Tools for IMG files
 [QR Code Monkey](https://www.qrcode-monkey.com/) | Custom QR code generator
 [VideoSmaller](https://www.videosmaller.com/) | Video compressing
+
+## Free images
+Site | Description
+:---: | :---:
+[Deposit photos](https://br.depositphotos.com/) | Images, videos and songs free for use
+[Icon archive](https://iconarchive.com/) | Icons for favicons websites
+[Istockphoto](https://www.istockphoto.com/br) | Images and videos free for use
+[Shutter stock](https://www.shutterstock.com/search/deposit) | Images free for use
+[Freepik](https://www.freepik.com/free-photos-vectors/deposit) | Images free for use
+[Unsplash](https://unsplash.com/s/photos/deposit) | Images free for use
+[Pexels](https://www.pexels.com/search/deposit/) | Images free for use
+[Pixabay](https://pixabay.com/images/search/deposit/) | Images and videos free for use
+[Rawpixel](https://www.rawpixel.com/?sort=shuffle&page=1&feed=creative-feed) | Images free for use
+[Libreshot](https://libreshot.com/) | Images free for commercial use
+[Wikimedia commons](https://commons.wikimedia.org/wiki/Main_Page) | Free media files
 
 ## Math
 Site | Description

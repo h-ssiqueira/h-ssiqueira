@@ -1,16 +1,24 @@
 # Programs
-Programs and softwares which I use
+Programs and softwares which I use.
 
 ## Summary
 * [Browsers](#Browsers)
+* [Configuration](#Configuration)
 * [Development](#Development)
 * [Linux](#Linux)
 * [Media](#Media)
 
 ### Browsers
-[![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://www.opera.com/pt-br?utm_campaign=12%20-%20BR%20-%20Perfomance%20Max%20-%20PT%20&gclid=Cj0KCQjw24qHBhCnARIsAPbdtlJeCXqiK9Kv-TfH8RTs6asoRzjpfgdmPWgT-_9aA2cUSHH3zjR_biwaAmEFEALw_wcB)
+[![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)](https://brave.com/download/)
+
+[![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://www.opera.com/download)
 
 [![Tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://www.torproject.org/download/)
+
+### Configuration
+[DriverEasy](https://www.drivereasy.com/download-free-version/)
+
+[Rufus](https://rufus.ie/en/#)
 
 ### Development
 [![GitHub Desktop Win/MAC](https://img.shields.io/badge/GitHub_Desktop_Win_MAC-6e2788?style=for-the-badge&logo=github&logoColor=white)](https://desktop.github.com/)

@@ -16,13 +16,14 @@
 ## Books
 Site | Description
 :---: | :---:
-[PDF Drive](https://www.pdfdrive.com/) | Books in PDF
 [LibGen](https://libgen.is/) | Library books with references for projects
+[PDF Drive](https://www.pdfdrive.com/) | Books in PDF
 
 ## Data
 Site | Description
 :---: | :---:
 [ASCII table](https://theasciicode.com.ar/) | Complete ASCII table
+[Iana](https://www.iana.org/assignments/media-types/media-types.xhtml) | List of all media types extensions
 [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-666666?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/web/) | Archive of websites
 [Mussum Ipsum](https://mussumipsum.com/) | Lorem ipsum paragraph generator
 [OSDev](https://wiki.osdev.org/Expanded_Main_Page) | Wiki about operational systems
@@ -32,18 +33,19 @@ Site | Description
 ## Decorations
 Site | Description
 :---: | :---:
-[Image color picker](https://imagecolorpicker.com/) | Take the color code from pictures
+[ASCII text](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) | ASCII art letters
 [Emojipedia](https://emojipedia.org/) | All emojis
 [GitHub Badges](https://img.shields.io) | Badges for GitHub READMEs
-[ASCII text](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) | ASCII art letters
+[Image color picker](https://imagecolorpicker.com/) | Take the color code from pictures
+[Tailorbrands](https://www.tailorbrands.com/) | Design of free logos
 
 ## Diagrams
 Site | Description
 :---: | :---:
-[![Diagramsdotnet](https://img.shields.io/badge/Diagrams.net-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://app.diagrams.net) | Create diagrams directly on google drive
-[Whimsical](https://whimsical.com/getting-started-5AqaR9JCJc8hHL4QfcsVPt) | Create diagrams online with co-workers
 [Dbdiagram](https://dbdiagram.io/d) | Diagrams for databases
+[![Diagramsdotnet](https://img.shields.io/badge/Diagrams.net-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://app.diagrams.net) | Create diagrams directly on google drive
 [Lucid](https://lucid.app/) | Diagrams online limited to ~60 objects
+[Whimsical](https://whimsical.com/getting-started-5AqaR9JCJc8hHL4QfcsVPt) | Create diagrams online with co-workers
 
 ## Files
 Site | Description
@@ -54,8 +56,8 @@ Site | Description
 [Favicon](https://favicon.io/) | Generate icons
 [Free convert](https://www.freeconvert.com/) | Convert and compress files
 https://www.linkyoutube.com/watch?v= + "youtube video link" | Download youtube videos ("link" between "www." and "youtube")
-[ILovePDF](https://www.ilovepdf.com/) | Tools for PDFs
 [ILoveIMG](https://www.iloveimg.com/) | Tools for IMG files
+[ILovePDF](https://www.ilovepdf.com/) | Tools for PDFs
 [Intel Assembler X86 code table](http://www.jegerlehner.ch/intel/) | Table of Assembly x86 instructions
 [QR Code Monkey](https://www.qrcode-monkey.com/) | Custom QR code generator
 [VideoSmaller](https://www.videosmaller.com/) | Video compressing
@@ -64,15 +66,15 @@ https://www.linkyoutube.com/watch?v= + "youtube video link" | Download youtube v
 Site | Description
 :---: | :---:
 [Deposit photos](https://br.depositphotos.com/) | Images, videos and songs free for use
+[Freepik](https://www.freepik.com/free-photos-vectors/deposit) | Images free for use
 [Icon archive](https://iconarchive.com/) | Icons for favicons websites
 [Istockphoto](https://www.istockphoto.com/br) | Images and videos free for use
-[Shutter stock](https://www.shutterstock.com/search/deposit) | Images free for use
-[Freepik](https://www.freepik.com/free-photos-vectors/deposit) | Images free for use
-[Unsplash](https://unsplash.com/s/photos/deposit) | Images free for use
+[Libreshot](https://libreshot.com/) | Images free for commercial use
 [Pexels](https://www.pexels.com/search/deposit/) | Images free for use
 [Pixabay](https://pixabay.com/images/search/deposit/) | Images and videos free for use
+[Shutter stock](https://www.shutterstock.com/search/deposit) | Images free for use
 [Rawpixel](https://www.rawpixel.com/?sort=shuffle&page=1&feed=creative-feed) | Images free for use
-[Libreshot](https://libreshot.com/) | Images free for commercial use
+[Unsplash](https://unsplash.com/s/photos/deposit) | Images free for use
 [Wikimedia commons](https://commons.wikimedia.org/wiki/Main_Page) | Free media files
 
 ## Math

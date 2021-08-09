@@ -38,6 +38,13 @@ Description | Cutting edge x86 and x86_64 assembly syntax highlighting
 Version | 3.0.0
 Publisher | 13xforever
 
+Name | LinkerScript
+:---: | :---:
+Id | [zixuanwang.linkerscript](https://marketplace.visualstudio.com/items?itemName=ZixuanWang.linkerscript)
+Description | Language support for GNU linker script
+Version: 1.0.2
+Publisher | Zixuan Wang
+
 Name | Python
 :---: | :---:
 Id | [ms-python.python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
@@ -53,13 +60,6 @@ Version | 2021.6.3
 Publisher | Microsoft
 
 ### Environment
-
-Name | Jupyter
-:---: | :---:
-Id | [ms-toolsai.jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
-Description | Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.
-Version: 2021.6.999662501
-Publisher | Microsoft
 
 Name | Live Share
 :---: | :---:

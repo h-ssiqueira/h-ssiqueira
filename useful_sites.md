@@ -9,8 +9,10 @@
 * [Diagrams](#Diagrams)
 * [Files](#Files)
 * [Free images](#Free-images)
+* [Free host](#Free-host)
 * [Math](#Math)
 * [Presentations](#Presentations)
+* [Random]($Random)
 * [Workspaces](#Workspaces)
 
 ## Books
@@ -62,6 +64,11 @@ https://www.linkyoutube.com/watch?v= + "youtube video link" | Download youtube v
 [QR Code Monkey](https://www.qrcode-monkey.com/) | Custom QR code generator
 [VideoSmaller](https://www.videosmaller.com/) | Video compressing
 
+## Free host
+Site | Description
+:---: | :---:
+[tiiny](https://tiiny.host/) | Free site hosting for a week
+
 ## Free images
 Site | Description
 :---: | :---:
@@ -88,6 +95,11 @@ Site | Description
 Site | Description
 :---: | :---:
 [![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)](https://prezi.com/dashboard/next/#/all) | Dynamic presentations
+
+## Random
+Site | Description
+:---: | :---:
+[Temp mail](https://temp-mail.org/pt/) | Temporary email
 
 ## Workspaces
 Site | Description

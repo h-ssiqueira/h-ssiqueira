@@ -9,10 +9,10 @@
 * [Diagrams](#Diagrams)
 * [Files](#Files)
 * [Free images](#Free-images)
-* [Free host](#Free-host)
+* [Free hosting](#Free-hosting)
 * [Math](#Math)
 * [Presentations](#Presentations)
-* [Random]($Random)
+* [Random](#Random)
 * [Workspaces](#Workspaces)
 
 ## Books
@@ -27,6 +27,7 @@ Site | Description
 [ASCII table](https://theasciicode.com.ar/) | Complete ASCII table
 [Iana](https://www.iana.org/assignments/media-types/media-types.xhtml) | List of all media types extensions
 [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-666666?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/web/) | Archive of websites
+[Muscle wiki](https://musclewiki.com/) | Wiki about workout
 [Mussum Ipsum](https://mussumipsum.com/) | Lorem ipsum paragraph generator
 [OSDev](https://wiki.osdev.org/Expanded_Main_Page) | Wiki about operational systems
 [Random](https://www.random.org/) | Random numbers
@@ -39,6 +40,8 @@ Site | Description
 [Emojipedia](https://emojipedia.org/) | All emojis
 [GitHub Badges](https://img.shields.io) | Badges for GitHub READMEs
 [Image color picker](https://imagecolorpicker.com/) | Take the color code from pictures
+[Color tool](https://material.io/resources/color/#!/?view.left=0&view.right=0) | Color palettes for UI
+[Sciweavers](http://www.sciweavers.org/free-online-latex-equation-editor) | Equation editor for markdown/html view
 [Tailorbrands](https://www.tailorbrands.com/) | Design of free logos
 
 ## Diagrams
@@ -55,16 +58,25 @@ Site | Description
 [123apps](https://123apps.com/) | Tools for videos, audio and PDFs
 [9xBuddy](https://9xbuddy.com/) | Online video downloader
 [Conversor](https://conversor-pdf.com/konvertieren/) | Tools for convert files
+[ExifRemove](https://exifremove.com/) | JPEG EXIF data remover
 [Favicon](https://favicon.io/) | Generate icons
+[Foto forensics](https://fotoforensics.com/) | Check if the picture is photoshopped
 [Free convert](https://www.freeconvert.com/) | Convert and compress files
 https://www.linkyoutube.com/watch?v= + "youtube video link" | Download youtube videos ("link" between "www." and "youtube")
 [ILoveIMG](https://www.iloveimg.com/) | Tools for IMG files
 [ILovePDF](https://www.ilovepdf.com/) | Tools for PDFs
+[Inpaint](https://theinpaint.com/) | Remove objects from pictures
 [Intel Assembler X86 code table](http://www.jegerlehner.ch/intel/) | Table of Assembly x86 instructions
+[NVIDIA inpainting](https://www.nvidia.com/research/inpainting/index.html) | Image edit
 [QR Code Monkey](https://www.qrcode-monkey.com/) | Custom QR code generator
+[Removebg](https://www.remove.bg/) | Remove background from pictures
+[PicResize](https://picresize.com/) | Resize pictures
+[Tiny JPG](https://tinyjpg.com/) | Compress images (JPG and PNG)
+[Unscreen](https://www.unscreen.com/) | Remove/change background from videos and gifs
 [VideoSmaller](https://www.videosmaller.com/) | Video compressing
+[Vocal remover](https://vocalremover.org/) | Separate music and vocals from a song
 
-## Free host
+## Free hosting
 Site | Description
 :---: | :---:
 [tiiny](https://tiiny.host/) | Free site hosting for a week
@@ -99,6 +111,14 @@ Site | Description
 ## Random
 Site | Description
 :---: | :---:
+[Airport password wifis](https://www.google.com/maps/d/u/0/embed?mid=1Z1dI8hoBZSJNWFx2xr_MMxSxSxY&ll=-14.995838110842625%2C48.86813719999998&z=2) | All free wifi passwords in airports
+[Cheatography](https://cheatography.com/) | Cheat sheets
+[Flight radar 24](https://www.flightradar24.com/) | Track live flights around the world
+[ImportYeti](https://www.importyeti.com/) | Company's suppliers finder
+[Leolabs visualization](https://platform.leolabs.space/visualization) | Track live satellites
+[Kick resume](https://www.kickresume.com/en/) | Resume templates
+[Make me a cocktail](https://makemeacocktail.com/mybar/) | Cocktails with your avaliable ingredients
+[Room styler](https://roomstyler.com/) | Design a room
 [Temp mail](https://temp-mail.org/pt/) | Temporary email
 
 ## Workspaces

@@ -11,7 +11,6 @@
 * [Free images](#Free-images)
 * [Free hosting](#Free-hosting)
 * [Math](#Math)
-* [Presentations](#Presentations)
 * [Random](#Random)
 * [Workspaces](#Workspaces)
 
@@ -37,10 +36,12 @@ Site | Description
 Site | Description
 :---: | :---:
 [ASCII text](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) | ASCII art letters
+[CSS button](https://www.bestcssbuttongenerator.com/) | Button generator
+[Canva](https://www.canva.com/colors/color-palette-generator/) | Color palette generator
+[Color tool](https://material.io/resources/color/#!/?view.left=0&view.right=0) | Color palettes for UI
 [Emojipedia](https://emojipedia.org/) | All emojis
 [GitHub Badges](https://img.shields.io) | Badges for GitHub READMEs
 [Image color picker](https://imagecolorpicker.com/) | Take the color code from pictures
-[Color tool](https://material.io/resources/color/#!/?view.left=0&view.right=0) | Color palettes for UI
 [Sciweavers](http://www.sciweavers.org/free-online-latex-equation-editor) | Equation editor for markdown/html view
 [Tailorbrands](https://www.tailorbrands.com/) | Design of free logos
 
@@ -103,11 +104,6 @@ Site | Description
 [Integral calculator](https://www.integral-calculator.com/) | Integral calculator with steps
 [![Octave](https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)](https://octave-online.net/) | Online octave software
 
-## Presentations
-Site | Description
-:---: | :---:
-[![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)](https://prezi.com/dashboard/next/#/all) | Dynamic presentations
-
 ## Random
 Site | Description
 :---: | :---:
@@ -125,3 +121,5 @@ Site | Description
 Site | Description
 :---: | :---:
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](notion.so) | Workspaces for projects / notes
+[Overleaf](https://www.overleaf.com) | Collaborative LaTeX editor
+[![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)](https://prezi.com/dashboard/next/#/all) | Dynamic presentations

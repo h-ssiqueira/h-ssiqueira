@@ -58,6 +58,7 @@ Site | Description
 :---: | :---:
 [123apps](https://123apps.com/) | Tools for videos, audio and PDFs
 [9xBuddy](https://9xbuddy.com/) | Online video downloader
+[Closure compiler](https://closure-compiler.appspot.com/) | Compress JavaScript files for websites
 [Conversor](https://conversor-pdf.com/konvertieren/) | Tools for convert files
 [ExifRemove](https://exifremove.com/) | JPEG EXIF data remover
 [Favicon](https://favicon.io/) | Generate icons
@@ -111,9 +112,11 @@ Site | Description
 [Cheatography](https://cheatography.com/) | Cheat sheets
 [Flight radar 24](https://www.flightradar24.com/) | Track live flights around the world
 [ImportYeti](https://www.importyeti.com/) | Company's suppliers finder
-[Leolabs visualization](https://platform.leolabs.space/visualization) | Track live satellites
 [Kick resume](https://www.kickresume.com/en/) | Resume templates
+[Leolabs visualization](https://platform.leolabs.space/visualization) | Track live satellites
 [Make me a cocktail](https://makemeacocktail.com/mybar/) | Cocktails with your avaliable ingredients
+[Marine Traffic](https://www.marinetraffic.com/) | Track live ships
+[No more ransom](https://www.nomoreransom.org/en/index.html) | Decrypts ransomware encrypted files
 [Room styler](https://roomstyler.com/) | Design a room
 [Temp mail](https://temp-mail.org/pt/) | Temporary email
 

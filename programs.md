@@ -27,19 +27,28 @@ Programs and softwares which I use.
 
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org/downloads/)
 
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
+
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/download)
 
 ### Linux
 * clisp
 * g++
 * gcc
-* git
+* gcc-10-i686-linux-gnu
+
+![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![gpg](https://img.shields.io/badge/gpg-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 * htop
 * kate
 * make
 * nasm
 * openssh-server
+
+![qemu](https://img.shields.io/badge/qemu-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 * valgrind
+* xorriso
 
 ### Media
 [![VLC](https://img.shields.io/badge/VLC-FF8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white)](https://www.videolan.org/)

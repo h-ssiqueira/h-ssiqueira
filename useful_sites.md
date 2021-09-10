@@ -73,6 +73,7 @@ https://www.linkyoutube.com/watch?v= + "youtube video link" | Download youtube v
 [QR Code Monkey](https://www.qrcode-monkey.com/) | Custom QR code generator
 [Removebg](https://www.remove.bg/) | Remove background from pictures
 [PicResize](https://picresize.com/) | Resize pictures
+[Take note](https://takenote.dev/app) | Take notes in markdown
 [Tiny JPG](https://tinyjpg.com/) | Compress images (JPG and PNG)
 [Unscreen](https://www.unscreen.com/) | Remove/change background from videos and gifs
 [VideoSmaller](https://www.videosmaller.com/) | Video compressing
@@ -123,6 +124,6 @@ Site | Description
 ## Workspaces
 Site | Description
 :---: | :---:
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](notion.so) | Workspaces for projects / notes
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/) | Workspaces for projects / notes
 [Overleaf](https://www.overleaf.com) | Collaborative LaTeX editor
 [![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)](https://prezi.com/dashboard/next/#/all) | Dynamic presentations

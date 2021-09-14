@@ -117,6 +117,7 @@ Site | Description
 [Leolabs visualization](https://platform.leolabs.space/visualization) | Track live satellites
 [Make me a cocktail](https://makemeacocktail.com/mybar/) | Cocktails with your avaliable ingredients
 [Marine Traffic](https://www.marinetraffic.com/) | Track live ships
+[MyFridgeFood](https://myfridgefood.com/) | Get recipes with the avaliable ingradients in your fridge
 [No more ransom](https://www.nomoreransom.org/en/index.html) | Decrypts ransomware encrypted files
 [Room styler](https://roomstyler.com/) | Design a room
 [Temp mail](https://temp-mail.org/pt/) | Temporary email

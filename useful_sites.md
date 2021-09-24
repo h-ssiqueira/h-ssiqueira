@@ -58,6 +58,7 @@ Site | Description
 :---: | :---:
 [123apps](https://123apps.com/) | Tools for videos, audio and PDFs
 [9xBuddy](https://9xbuddy.com/) | Online video downloader
+[Clipchamp](https://app.clipchamp.com/) | Online video editor
 [Closure compiler](https://closure-compiler.appspot.com/) | Compress JavaScript files for websites
 [Conversor](https://conversor-pdf.com/konvertieren/) | Tools for convert files
 [ExifRemove](https://exifremove.com/) | JPEG EXIF data remover

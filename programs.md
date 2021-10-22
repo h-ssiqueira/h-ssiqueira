@@ -25,6 +25,8 @@ Programs and softwares which I use.
 
 [![GitHub Desktop Linux](https://img.shields.io/badge/GitHub_Desktop_Linux-6e2788?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiftkey/desktop)
 
+[![Java](https://img.shields.io/badge/Java_JDK-007396?style=for-the-badge&logo=java&logoColor=white)](https://openjdk.java.net/projects/jdk/)
+
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org/downloads/)
 
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
@@ -44,6 +46,7 @@ Programs and softwares which I use.
 * kate
 * make
 * nasm
+* nodejs
 * openssh-server
 
 ![qemu](https://img.shields.io/badge/qemu-FF6600?style=for-the-badge&logo=qemu&logoColor=white)

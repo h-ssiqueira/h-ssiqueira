@@ -110,6 +110,7 @@ Site | Description
 ## Random
 Site | Description
 :---: | :---:
+[4Devs](https://www.4devs.com.br/) | Tools for testing software
 [Airport password wifis](https://www.google.com/maps/d/u/0/embed?mid=1Z1dI8hoBZSJNWFx2xr_MMxSxSxY&ll=-14.995838110842625%2C48.86813719999998&z=2) | All free wifi passwords in airports
 [Cheatography](https://cheatography.com/) | Cheat sheets
 [Flight radar 24](https://www.flightradar24.com/) | Track live flights around the world

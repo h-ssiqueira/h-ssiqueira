@@ -10,6 +10,7 @@
 * [Files](#Files)
 * [Free images](#Free-images)
 * [Free hosting](#Free-hosting)
+* [Learning](#Learning)
 * [Math](#Math)
 * [Random](#Random)
 * [Workspaces](#Workspaces)
@@ -100,6 +101,14 @@ Site | Description
 [Unsplash](https://unsplash.com/s/photos/deposit) | Images free for use
 [Wikimedia commons](https://commons.wikimedia.org/wiki/Main_Page) | Free media files
 
+## Learning
+Site | Description
+:---: | :---:
+[Cheatography](https://cheatography.com/) | Cheat sheets
+[Devhints](https://devhints.io/git-log) | CheatSheets
+[HTTPS status dogs](https://httpstatusdogs.com/) | Learn https status codes with dogs
+[Visualizing git](http://git-school.github.io/visualizing-git/#free) | Visualize commits, branchs and merges
+
 ## Math
 Site | Description
 :---: | :---:
@@ -112,7 +121,6 @@ Site | Description
 :---: | :---:
 [4Devs](https://www.4devs.com.br/) | Tools for testing software
 [Airport password wifis](https://www.google.com/maps/d/u/0/embed?mid=1Z1dI8hoBZSJNWFx2xr_MMxSxSxY&ll=-14.995838110842625%2C48.86813719999998&z=2) | All free wifi passwords in airports
-[Cheatography](https://cheatography.com/) | Cheat sheets
 [Flight radar 24](https://www.flightradar24.com/) | Track live flights around the world
 [ImportYeti](https://www.importyeti.com/) | Company's suppliers finder
 [Kick resume](https://www.kickresume.com/en/) | Resume templates
@@ -122,6 +130,7 @@ Site | Description
 [MyFridgeFood](https://myfridgefood.com/) | Get recipes with the avaliable ingradients in your fridge
 [No more ransom](https://www.nomoreransom.org/en/index.html) | Decrypts ransomware encrypted files
 [Room styler](https://roomstyler.com/) | Design a room
+[Subnet calculator](https://www.subnet-calculator.com/subnet.php?net_class=C) | Calculate if two IPs are in the same subnet
 [Temp mail](https://temp-mail.org/pt/) | Temporary email
 
 ## Workspaces

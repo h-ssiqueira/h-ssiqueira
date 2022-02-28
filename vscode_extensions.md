@@ -58,6 +58,12 @@ Id | [13xforever.language-x86-64-assembly](https://marketplace.visualstudio.com/
 Description | Cutting edge x86 and x86_64 assembly syntax highlighting
 Publisher | 13xforever
 
+Name | R
+:---: | :---:
+Id: Ikuyadeu.r
+Description: https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r
+Publisher: Yuki Ueda
+
 ### Environment
 
 Name | Draw.io Integration

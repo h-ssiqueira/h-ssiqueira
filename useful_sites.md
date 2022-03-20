@@ -106,7 +106,10 @@ Site | Description
 :---: | :---:
 [Cheatography](https://cheatography.com/) | Cheat sheets
 [Devhints](https://devhints.io/git-log) | CheatSheets
+[HTTPS status cats](https://http.cat/) | Learn https status codes with cats
 [HTTPS status dogs](https://httpstatusdogs.com/) | Learn https status codes with dogs
+[Regex101](https://regex101.com/) | Learn and build regular expressions
+[Roadmap](https://roadmap.sh/) | Roadmaps and guides for develops
 [Visualizing git](http://git-school.github.io/visualizing-git/#free) | Visualize commits, branchs and merges
 
 ## Math

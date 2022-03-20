@@ -43,16 +43,17 @@ Programs and softwares which I use.
 
 ![gpg](https://img.shields.io/badge/gpg-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 * htop
-* kate
 * make
 * nasm
+* net-tools
 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
 * nodejs
 * openssh-server
 
 ![qemu](https://img.shields.io/badge/qemu-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+* stress
+* traceroute
 * valgrind
 * xorriso
 

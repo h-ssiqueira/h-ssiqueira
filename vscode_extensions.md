@@ -16,6 +16,12 @@ Id | [ms-vscode.cpptools](https://marketplace.visualstudio.com/items?itemName=ms
 Description | C/C++ IntelliSense, debugging, and code browsing.
 Publisher | Microsoft
 
+Name | Code Runner
+:---: | :---:
+Id | [formulahendry.code-runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+Description | Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim.
+Publisher | Jun Han
+
 Name | Java Extension Pack
 :---: | :---:
 Id | [vscjava.vscode-java-pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
@@ -60,9 +66,9 @@ Publisher | 13xforever
 
 Name | R
 :---: | :---:
-Id: Ikuyadeu.r
-Description: https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r
-Publisher: Yuki Ueda
+Id | Ikuyadeu.r
+Description | https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r
+Publisher | Yuki Ueda
 
 ### Environment
 
@@ -123,6 +129,12 @@ Description | Official Dracula Theme. A dark theme for many editors, shells, and
 Publisher | Dracula Theme
 
 ### Misc
+
+Name | GitHub Pull Requests and Issues
+:---: | :---:
+Id | [GitHub.vscode-pull-request-github](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+Description | Pull Request and Issue Provider for GitHub.
+Publisher | GitHub
 
 Name | Discord Presence
 :---: | :---:

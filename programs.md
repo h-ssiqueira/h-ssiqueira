@@ -21,19 +21,30 @@ Programs and softwares which I use.
 [Rufus](https://rufus.ie/en/#)
 
 ### Development
+[DBeaver](https://dbeaver.com/download/)
+
 [![GitHub Desktop Win/MAC](https://img.shields.io/badge/GitHub_Desktop_Win_MAC-6e2788?style=for-the-badge&logo=github&logoColor=white)](https://desktop.github.com/)
 
 [![GitHub Desktop Linux](https://img.shields.io/badge/GitHub_Desktop_Linux-6e2788?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiftkey/desktop)
 
+[![IntellijIdea](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/pt-br/idea/download/)
+
 [![Java](https://img.shields.io/badge/Java_JDK-007396?style=for-the-badge&logo=java&logoColor=white)](https://openjdk.java.net/projects/jdk/)
 
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org/downloads/)
+
+[![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/downloads/)
+
+[![RStudio](https://img.shields.io/badge/rstudio-75AADB.svg?style=for-the-badge&logo=rstudio&logoColor=white)](https://www.rstudio.com/products/rstudio/download/)
+
+[![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/download)
 
 ### Linux
+* alien
 * clisp
 * g++
 * gcc
@@ -52,10 +63,14 @@ Programs and softwares which I use.
 * openssh-server
 
 ![qemu](https://img.shields.io/badge/qemu-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+* secure-delete
 * stress
 * traceroute
+* unzip
 * valgrind
 * xorriso
+* zip
+* zoom
 
 ### Media
 [![VLC](https://img.shields.io/badge/VLC-FF8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white)](https://www.videolan.org/)

@@ -25,12 +25,14 @@ Site | Description
 Site | Description
 :---: | :---:
 [ASCII table](https://theasciicode.com.ar/) | Complete ASCII table
+[HemingApp](https://hemingwayapp.com/) | Improve texts
 [Iana](https://www.iana.org/assignments/media-types/media-types.xhtml) | List of all media types extensions
 [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-666666?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/web/) | Archive of websites
 [Muscle wiki](https://musclewiki.com/) | Wiki about workout
 [Mussum Ipsum](https://mussumipsum.com/) | Lorem ipsum paragraph generator
 [OSDev](https://wiki.osdev.org/Expanded_Main_Page) | Wiki about operational systems
 [Random](https://www.random.org/) | Random numbers
+[Small Seo Tools](https://smallseotools.com/) | Text content tools
 [UserBenchmark](https://www.userbenchmark.com/) | Hardware comparison and statistics
 
 ## Decorations
@@ -84,6 +86,7 @@ https://www.linkyoutube.com/watch?v= + "youtube video link" | Download youtube v
 ## Free hosting
 Site | Description
 :---: | :---:
+[elephantSQL](https://www.elephantsql.com/) | Free 20 MB PostGreSQL database
 [tiiny](https://tiiny.host/) | Free site hosting for a week
 
 ## Free images

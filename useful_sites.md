@@ -8,11 +8,12 @@
 * [Decorations](#Decorations)
 * [Diagrams](#Diagrams)
 * [Files](#Files)
-* [Free images](#Free-images)
-* [Free hosting](#Free-hosting)
+* [Free images](#Images)
+* [Free hosting](#Hosting)
 * [Learning](#Learning)
 * [Math](#Math)
 * [Random](#Random)
+* [Testing](#Testing)
 * [Workspaces](#Workspaces)
 
 ## Books
@@ -33,7 +34,6 @@ Site | Description
 [OSDev](https://wiki.osdev.org/Expanded_Main_Page) | Wiki about operational systems
 [Random](https://www.random.org/) | Random numbers
 [Small Seo Tools](https://smallseotools.com/) | Text content tools
-[UserBenchmark](https://www.userbenchmark.com/) | Hardware comparison and statistics
 
 ## Decorations
 Site | Description
@@ -81,15 +81,18 @@ https://www.linkyoutube.com/watch?v= + "youtube video link" | Download youtube v
 [Tiny JPG](https://tinyjpg.com/) | Compress images (JPG and PNG)
 [Unscreen](https://www.unscreen.com/) | Remove/change background from videos and gifs
 [VideoSmaller](https://www.videosmaller.com/) | Video compressing
+[VirusTotal](https://www.virustotal.com/gui/home/upload) | Analyze suspicious files
 [Vocal remover](https://vocalremover.org/) | Separate music and vocals from a song
 
-## Free hosting
+## Free
+### Hosting
 Site | Description
 :---: | :---:
 [elephantSQL](https://www.elephantsql.com/) | Free 20 MB PostGreSQL database
+[MailtTrap](https://mailtrap.io/) | Host a mail server for testing
 [tiiny](https://tiiny.host/) | Free site hosting for a week
 
-## Free images
+### Images
 Site | Description
 :---: | :---:
 [Deposit photos](https://br.depositphotos.com/) | Images, videos and songs free for use
@@ -125,19 +128,29 @@ Site | Description
 ## Random
 Site | Description
 :---: | :---:
-[4Devs](https://www.4devs.com.br/) | Tools for testing software
 [Airport password wifis](https://www.google.com/maps/d/u/0/embed?mid=1Z1dI8hoBZSJNWFx2xr_MMxSxSxY&ll=-14.995838110842625%2C48.86813719999998&z=2) | All free wifi passwords in airports
 [Flight radar 24](https://www.flightradar24.com/) | Track live flights around the world
+[![GlassDoor](https://img.shields.io/badge/Glassdoor-0CAA41?style=for-the-badge&logo=glassdoor&logoColor=white)](https://www.glassdoor.com.br/) | Discover more information about companies
 [ImportYeti](https://www.importyeti.com/) | Company's suppliers finder
 [Kick resume](https://www.kickresume.com/en/) | Resume templates
 [Leolabs visualization](https://platform.leolabs.space/visualization) | Track live satellites
 [Make me a cocktail](https://makemeacocktail.com/mybar/) | Cocktails with your avaliable ingredients
 [Marine Traffic](https://www.marinetraffic.com/) | Track live ships
 [MyFridgeFood](https://myfridgefood.com/) | Get recipes with the avaliable ingradients in your fridge
-[No more ransom](https://www.nomoreransom.org/en/index.html) | Decrypts ransomware encrypted files
+[No more ransom](https://www.nomoreransom.org/) | Decrypts ransomware encrypted files
 [Room styler](https://roomstyler.com/) | Design a room
 [Subnet calculator](https://www.subnet-calculator.com/subnet.php?net_class=C) | Calculate if two IPs are in the same subnet
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)](https://editor.swagger.io/) | Document your project APIs
 [Temp mail](https://temp-mail.org/pt/) | Temporary email
+
+## Testing
+Site | Description
+:---: | :---:
+[4Devs](https://www.4devs.com.br/) | Tools for testing software
+[![SpeedTest](https://img.shields.io/badge/Speedtest-141526?style=for-the-badge&logo=speedtest&logoColor=white)](https://www.speedtest.net/) | Test your internet connection speed
+[TestUFO](https://www.testufo.com/) | Test your monitor fresh rate
+[UserBenchmark](https://www.userbenchmark.com/) | Hardware comparison and statistics
+[WhatIsMyIPAddress](https://whatismyipaddress.com/) | Discover your public IP
 
 ## Workspaces
 Site | Description

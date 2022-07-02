@@ -2,7 +2,8 @@
 
 ## Contact
 [![Microsoft Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hss@outlook.com.br)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/344518955517607936/)
+[![Discord](https://dcbadge.vercel.app/api/shield/344518955517607936)](https://discordapp.com/users/344518955517607936/)
+
 
 ## Info
 [![Google Drive](https://img.shields.io/badge/Certificates-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/drive/folders/1VCk1tXpMATb7OQKwG1O43JoR_uE3qN0L?usp=sharing)
@@ -12,10 +13,11 @@
 ## Other profiles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-sartori-siqueira-38a46761/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13788141/hss)
 [![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hss01)
 [![Sololearn](https://img.shields.io/badge/Sololearn-3A464B?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/10227827)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/hss)
+
+[![StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/13788141?website=false&theme=dark)](https://stackoverflow.com/users/13788141/hss)
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/h_s_s)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/h_ssiqueira/)
@@ -35,4 +37,12 @@
 	<img src="https://activity-graph.herokuapp.com/graph?username=h-ssiqueira&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
 	<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 	</a>
+	<br>
+	<details open>
+		<summary>More statistics</summary>
+		<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/profile-night-green.svg" alt="Snake animation">
+		<br>
+		<a href="https://info.flagcounter.com/FWys"><img src="https://s04.flagcounter.com/count2/FWys/bg_1A1B27/txt_2895BC/border_DBDBDB/columns_5/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+	</details>
 </div>
+

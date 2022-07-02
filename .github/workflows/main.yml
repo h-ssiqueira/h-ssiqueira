@@ -24,7 +24,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SNAKE_CONTRIBUTION }}
     # Profile-3d graph
-      - uses: actions/checkout@v2
+      #- uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.SNAKE_CONTRIBUTION }}

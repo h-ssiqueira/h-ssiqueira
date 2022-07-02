@@ -40,7 +40,7 @@
 	<br>
 	<details open>
 		<summary>More statistics</summary>
-		<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/profile-night-green.svg" alt="Snake animation">
+		<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/profile-night-green.svg" alt="profile-3d">
 		<br>
 		<a href="https://info.flagcounter.com/FWys"><img src="https://s04.flagcounter.com/count2/FWys/bg_1A1B27/txt_2895BC/border_DBDBDB/columns_5/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 	</details>

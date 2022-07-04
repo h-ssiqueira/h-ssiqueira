@@ -1,8 +1,8 @@
 name: Generate Datas
 
 on:
-  schedule: # Execute every 8 hours
-    - cron: "* */8 * * *"
+  schedule: # Execute every day
+    - cron: "* */24 * * *"
   workflow_dispatch:
 
 jobs:
@@ -31,5 +31,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "profile data generated"
+          git commit --allow-empty -m "profile data generated"
           git push

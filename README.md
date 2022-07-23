@@ -12,16 +12,16 @@
 
 ## Other profiles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-sartori-siqueira-38a46761/)
-[![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hss01)
-[![Sololearn](https://img.shields.io/badge/Sololearn-3A464B?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/10227827)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-sartori-siqueira-38a46761/)
+[![HackerRank](https://img.shields.io/badge/Hackerrank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hss01)
+[![Sololearn](https://img.shields.io/badge/Sololearn-149EF2?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/10227827)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/hss)
 
 [![StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/13788141?website=false&theme=dark)](https://stackoverflow.com/users/13788141/hss)
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/h_s_s)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/h_ssiqueira/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/henrique_ss?si=a172471e4c4a44d1)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/henrique_ss?si=a172471e4c4a44d1)
 
 ## Feel free to contribute
 [![Sort_Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=h-ssiqueira&repo=Sort_Algorithms&&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000)](https://github.com/h-ssiqueira/Sort_Algorithms)

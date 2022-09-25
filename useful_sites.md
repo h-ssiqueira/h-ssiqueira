@@ -53,6 +53,7 @@ Site | Description
 :---: | :---:
 [Dbdiagram](https://dbdiagram.io/d) | Diagrams for databases
 [![Diagramsdotnet](https://img.shields.io/badge/Diagrams.net-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://app.diagrams.net) | Create diagrams directly on google drive
+[JSONcrack](https://jsoncrack.com/editor) | Visualize JSON data into graph
 [Lucid](https://lucid.app/) | Diagrams online limited to ~60 objects
 [Whimsical](https://whimsical.com/getting-started-5AqaR9JCJc8hHL4QfcsVPt) | Create diagrams online with co-workers
 
@@ -112,8 +113,11 @@ Site | Description
 :---: | :---:
 [Cheatography](https://cheatography.com/) | Cheat sheets
 [Devhints](https://devhints.io/git-log) | CheatSheets
+[DifferenceBetween](http://www.differencebetween.net/) | Difference between similar terms and objects
 [HTTPS status cats](https://http.cat/) | Learn https status codes with cats
 [HTTPS status dogs](https://httpstatusdogs.com/) | Learn https status codes with dogs
+[Kaggle](https://www.kaggle.com/) | Datasets and cotes for data science
+[Papers With Code](https://paperswithcode.com/) | Datasets, methods, codes and papers for machine learning
 [Regex101](https://regex101.com/) | Learn and build regular expressions
 [Roadmap](https://roadmap.sh/) | Roadmaps and guides for develops
 [Visualizing git](http://git-school.github.io/visualizing-git/#free) | Visualize commits, branchs and merges
@@ -129,6 +133,7 @@ Site | Description
 Site | Description
 :---: | :---:
 [Airport password wifis](https://www.google.com/maps/d/u/0/embed?mid=1Z1dI8hoBZSJNWFx2xr_MMxSxSxY&ll=-14.995838110842625%2C48.86813719999998&z=2) | All free wifi passwords in airports
+[Crontab guru](https://crontab.guru/) | Cron schedule expressions
 [Flight radar 24](https://www.flightradar24.com/) | Track live flights around the world
 [![GlassDoor](https://img.shields.io/badge/Glassdoor-0CAA41?style=for-the-badge&logo=glassdoor&logoColor=white)](https://www.glassdoor.com.br/) | Discover more information about companies
 [ImportYeti](https://www.importyeti.com/) | Company's suppliers finder
@@ -138,6 +143,7 @@ Site | Description
 [Marine Traffic](https://www.marinetraffic.com/) | Track live ships
 [MyFridgeFood](https://myfridgefood.com/) | Get recipes with the avaliable ingradients in your fridge
 [No more ransom](https://www.nomoreransom.org/) | Decrypts ransomware encrypted files
+[Visa index](https://visaindex.com/) | Passport rankings
 [Room styler](https://roomstyler.com/) | Design a room
 [Subnet calculator](https://www.subnet-calculator.com/subnet.php?net_class=C) | Calculate if two IPs are in the same subnet
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)](https://editor.swagger.io/) | Document your project APIs

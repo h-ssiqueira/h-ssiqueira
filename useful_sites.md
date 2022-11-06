@@ -33,7 +33,7 @@ Site | Description
 [Mussum Ipsum](https://mussumipsum.com/) | Lorem ipsum paragraph generator
 [OSDev](https://wiki.osdev.org/Expanded_Main_Page) | Wiki about operational systems
 [Random](https://www.random.org/) | Random numbers
-[Small Seo Tools](https://smallseotools.com/) | Text content tools
+[Small Seo Tools](https://smallseotools.com/) | Text content tools and more
 
 ## Decorations
 Site | Description
@@ -84,6 +84,12 @@ https://www.linkyoutube.com/watch?v= + "youtube video link" | Download youtube v
 [VideoSmaller](https://www.videosmaller.com/) | Video compressing
 [VirusTotal](https://www.virustotal.com/gui/home/upload) | Analyze suspicious files
 [Vocal remover](https://vocalremover.org/) | Separate music and vocals from a song
+
+### AI
+Site | Description
+:---: | :---:
+[Starryai](https://www.starryai.com/) | AI art generator
+[NightCafe](https://nightcafe.studio/) | AI generated art prints
 
 ## Free
 ### Hosting

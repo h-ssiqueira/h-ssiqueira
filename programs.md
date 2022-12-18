@@ -29,7 +29,7 @@ Programs and softwares which I use.
 
 [![IntellijIdea](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/pt-br/idea/download/)
 
-[![Java](https://img.shields.io/badge/Java_JDK-007396?style=for-the-badge&logo=java&logoColor=white)](https://openjdk.java.net/projects/jdk/)
+[![Java](https://img.shields.io/badge/Java_JDK-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black)](https://openjdk.java.net/projects/jdk/)
 
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org/downloads/)
 
@@ -55,6 +55,7 @@ Programs and softwares which I use.
 ![gpg](https://img.shields.io/badge/gpg-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 * htop
 * make
+* maven
 * nasm
 * net-tools
 

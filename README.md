@@ -24,7 +24,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/henrique_ss?si=a172471e4c4a44d1)
 
 ## Feel free to contribute
-[![Sort_Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=h-ssiqueira&repo=Sort_Algorithms&&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000)](https://github.com/h-ssiqueira/Sort_Algorithms)
+[![Sort_Algorithms](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=h-ssiqueira&repo=Sort_Algorithms&&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000)](https://github.com/h-ssiqueira/Sort_Algorithms)
 
 [![Useful sites](https://img.shields.io/badge/Useful_sites-080A88?style=for-the-badge)](https://github.com/h-ssiqueira/h-ssiqueira/blob/master/useful_sites.md)
 
@@ -32,8 +32,8 @@
 
 <div align="center">
     <a href="https://github.com/h-ssiqueira/h-ssiqueira">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ssiqueira&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata&custom_title=Most%20recently%20used%20languages" alt="Most recently used languages">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h-ssiqueira&hide=issues&show_icons=true&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true" alt="GitHub stats">
+	<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=h-ssiqueira&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata&custom_title=Most%20recently%20used%20languages" alt="Most recently used languages">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=h-ssiqueira&hide=issues&show_icons=true&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true" alt="GitHub stats">
 	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=h-ssiqueira&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
 	<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/dist/github-contribution-grid-snake.svg" alt="Snake animation">
 	</a>

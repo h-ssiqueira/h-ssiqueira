@@ -34,6 +34,7 @@ Site | Description
 [OSDev](https://wiki.osdev.org/Expanded_Main_Page) | Wiki about operational systems
 [Random](https://www.random.org/) | Random numbers
 [Small Seo Tools](https://smallseotools.com/) | Text content tools and more
+[SciHub](https://www.sci-hub.se/) | Free access to academic articles and books
 
 ## Decorations
 Site | Description

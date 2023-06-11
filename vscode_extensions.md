@@ -30,12 +30,10 @@ YAML | [redhat.vscode-yaml](https://marketplace.visualstudio.com/items?itemName=
 
 Name | Id | Description | Publisher
 :---: | :---: | :---: | :---:
-Draw.io Integration | [hediet.vscode-drawio](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) | This unofficial extension integrates Draw.io into VS Code. | Henning Dieterichs
 Live Server | [ritwickdey.liveserver](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) | Launch a development local Server with live reload feature for static & dynamic pages | Ritwick Dey
 Live Share | [ms-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | Real-time collaborative development from the comfort of your favorite tools. | Microsoft
 Markdown Preview Github Styling | [bierner.markdown-preview-github-styles](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) | Changes VS Code's built-in markdown preview to match Github's style | Matt Bierner
 select highlight in minimap | [mde.select-highlight-minimap](https://marketplace.visualstudio.com/items?itemName=mde.select-highlight-minimap) | selected text highlight in minimap and editor | fozzeuh
-Settings Sync | [shan.code-settings-sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) | Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist. | Shan Khan
 Trailing Spaces | [shardulm94.trailing-spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) | Highlight trailing spaces and delete them in a flash! | Shardul Mahadik
 vscode-pdf | [tomoki1207.pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) | Display pdf file in VSCode. | tomoki1207
 Swagger Viewer | [Arjun.swagger-viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer) | Swagger Viewer lets you preview and validate Swagger 2.0 and OpenAPI files as you type in Visual Studio Code. | Arjun G

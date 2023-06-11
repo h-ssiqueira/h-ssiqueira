@@ -24,7 +24,6 @@ Programs and softwares which I use.
 [DBeaver](https://dbeaver.com/download/)
 
 [![GitHub Desktop Win/MAC](https://img.shields.io/badge/GitHub_Desktop_Win_MAC-6e2788?style=for-the-badge&logo=github&logoColor=white)](https://desktop.github.com/)
-
 [![GitHub Desktop Linux](https://img.shields.io/badge/GitHub_Desktop_Linux-6e2788?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiftkey/desktop)
 
 [![IntellijIdea](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/pt-br/idea/download/)
@@ -48,19 +47,19 @@ Programs and softwares which I use.
 * clisp
 * g++
 * gcc
-* gcc-10-i686-linux-gnu
 
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![gpg](https://img.shields.io/badge/gpg-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 * htop
 * make
-* maven
+![maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 * nasm
 * net-tools
 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-* nodejs
+
+![nodejs](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 * openssh-server
 
 ![qemu](https://img.shields.io/badge/qemu-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
@@ -71,7 +70,7 @@ Programs and softwares which I use.
 * valgrind
 * xorriso
 * zip
-* zoom
+![zoom](https://img.shields.io/badge/zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 ### Media
 [![VLC](https://img.shields.io/badge/VLC-FF8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white)](https://www.videolan.org/)

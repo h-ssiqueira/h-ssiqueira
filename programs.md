@@ -53,6 +53,7 @@ Programs and softwares which I use.
 ![gpg](https://img.shields.io/badge/gpg-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 * htop
 * make
+
 ![maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 * nasm
 * net-tools
@@ -70,6 +71,7 @@ Programs and softwares which I use.
 * valgrind
 * xorriso
 * zip
+
 ![zoom](https://img.shields.io/badge/zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 ### Media

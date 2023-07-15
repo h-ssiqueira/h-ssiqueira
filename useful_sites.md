@@ -162,6 +162,7 @@ Site | Description
 Site | Description
 :---: | :---:
 [4Devs](https://www.4devs.com.br/) | Tools for testing software
+[Beeceptor](https://beeceptor.com/) | Inspect & Intercept HTTP requests
 [![SpeedTest](https://img.shields.io/badge/Speedtest-141526?style=for-the-badge&logo=speedtest&logoColor=white)](https://www.speedtest.net/) | Test your internet connection speed
 [TestUFO](https://www.testufo.com/) | Test your monitor fresh rate
 [UserBenchmark](https://www.userbenchmark.com/) | Hardware comparison and statistics

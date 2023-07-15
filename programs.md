@@ -21,6 +21,8 @@ Programs and softwares which I use.
 [Rufus](https://rufus.ie/en/#)
 
 ### Development
+cmder
+
 [DBeaver](https://dbeaver.com/download/)
 
 [![GitHub Desktop Win/MAC](https://img.shields.io/badge/GitHub_Desktop_Win_MAC-6e2788?style=for-the-badge&logo=github&logoColor=white)](https://desktop.github.com/)
@@ -45,6 +47,7 @@ Programs and softwares which I use.
 ### Linux
 * alien
 * clisp
+* ffmpeg
 * g++
 * gcc
 

@@ -47,7 +47,8 @@ cmder
 ### Linux
 * alien
 * clisp
-* ffmpeg
+
+![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 * g++
 * gcc
 

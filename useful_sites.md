@@ -26,6 +26,7 @@ Site | Description
 Site | Description
 :---: | :---:
 [ASCII table](https://theasciicode.com.ar/) | Complete ASCII table
+[Data faker](datafaker.net) | Generate fake data for testing
 [HemingApp](https://hemingwayapp.com/) | Improve texts
 [Iana](https://www.iana.org/assignments/media-types/media-types.xhtml) | List of all media types extensions
 [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-666666?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/web/) | Archive of websites

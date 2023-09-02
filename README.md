@@ -1,3 +1,5 @@
+<div align="center">
+
 # Welcome to my profile
 
 ## Contact
@@ -29,7 +31,7 @@
 [![Useful sites](https://img.shields.io/badge/Useful_sites-080A88?style=for-the-badge)](https://github.com/h-ssiqueira/h-ssiqueira/blob/master/useful_sites.md)
 
 ## Activity
-
+</div>
 <div align="center">
     <a href="https://github.com/h-ssiqueira/h-ssiqueira">
 	<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=h-ssiqueira&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata&custom_title=Most%20recently%20used%20languages" alt="Most recently used languages">

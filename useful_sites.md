@@ -22,6 +22,7 @@ Site | Description
 [LibGen](https://libgen.is/) | Library books with references for projects
 [PDF Drive](https://www.pdfdrive.com/) | Books in PDF
 
+[Back to top](#Summary)
 ## Data
 Site | Description
 :---: | :---:
@@ -38,6 +39,7 @@ Site | Description
 [Small Seo Tools](https://smallseotools.com/) | Text content tools and more
 [SciHub](https://www.sci-hub.se/) | Free access to academic articles and books
 
+[Back to top](#Summary)
 ## Decorations
 Site | Description
 :---: | :---:
@@ -49,8 +51,10 @@ Site | Description
 [GitHub Badges](https://img.shields.io) | Badges for GitHub READMEs
 [Image color picker](https://imagecolorpicker.com/) | Take the color code from pictures
 [Sciweavers](http://www.sciweavers.org/free-online-latex-equation-editor) | Equation editor for markdown/html view
+[![Simple Icons](https://img.shields.io/badge/SimpleIcons-111111?style=for-the-badge&logo=simpleicons&logoColor=white)](https://simpleicons.org/) | Simple icons for popular brands
 [Tailorbrands](https://www.tailorbrands.com/) | Design of free logos
 
+[Back to top](#Summary)
 ## Diagrams
 Site | Description
 :---: | :---:
@@ -60,6 +64,7 @@ Site | Description
 [Lucid](https://lucid.app/) | Diagrams online limited to ~60 objects
 [Whimsical](https://whimsical.com/getting-started-5AqaR9JCJc8hHL4QfcsVPt) | Create diagrams online with co-workers
 
+[Back to top](#Summary)
 ## Files
 Site | Description
 :---: | :---:
@@ -89,12 +94,14 @@ https://www.linkyoutube.com/watch?v= + "youtube video link" | Download youtube v
 [VirusTotal](https://www.virustotal.com/gui/home/upload) | Analyze suspicious files
 [Vocal remover](https://vocalremover.org/) | Separate music and vocals from a song
 
+[Back to top](#Summary)
 ### AI
 Site | Description
 :---: | :---:
 [Starryai](https://www.starryai.com/) | AI art generator
 [NightCafe](https://nightcafe.studio/) | AI generated art prints
 
+[Back to top](#Summary)
 ## Free
 ### Hosting
 Site | Description
@@ -103,6 +110,7 @@ Site | Description
 [MailtTrap](https://mailtrap.io/) | Host a mail server for testing
 [tiiny](https://tiiny.host/) | Free site hosting for a week
 
+[Back to top](#Summary)
 ### Images
 Site | Description
 :---: | :---:
@@ -118,6 +126,7 @@ Site | Description
 [Unsplash](https://unsplash.com/s/photos/deposit) | Images free for use
 [Wikimedia commons](https://commons.wikimedia.org/wiki/Main_Page) | Free media files
 
+[Back to top](#Summary)
 ## Learning
 Site | Description
 :---: | :---:
@@ -126,12 +135,13 @@ Site | Description
 [DifferenceBetween](http://www.differencebetween.net/) | Difference between similar terms and objects
 [HTTPS status cats](https://http.cat/) | Learn https status codes with cats
 [HTTPS status dogs](https://httpstatusdogs.com/) | Learn https status codes with dogs
-[Kaggle](https://www.kaggle.com/) | Datasets and cotes for data science
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/) | Datasets and cotes for data science
 [Papers With Code](https://paperswithcode.com/) | Datasets, methods, codes and papers for machine learning
 [Regex101](https://regex101.com/) | Learn and build regular expressions
 [Roadmap](https://roadmap.sh/) | Roadmaps and guides for develops
-[Visualizing git](http://git-school.github.io/visualizing-git/#free) | Visualize commits, branchs and merges
+[Visualizing ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](http://git-school.github.io/visualizing-git/#free) | Visualize commits, branchs and merges
 
+[Back to top](#Summary)
 ## Math
 Site | Description
 :---: | :---:
@@ -139,6 +149,7 @@ Site | Description
 [Integral calculator](https://www.integral-calculator.com/) | Integral calculator with steps
 [![Octave](https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)](https://octave-online.net/) | Online octave software
 
+[Back to top](#Summary)
 ## Random
 Site | Description
 :---: | :---:
@@ -159,6 +170,7 @@ Site | Description
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)](https://editor.swagger.io/) | Document your project APIs
 [Temp mail](https://temp-mail.org/pt/) | Temporary email
 
+[Back to top](#Summary)
 ## Testing
 Site | Description
 :---: | :---:
@@ -169,9 +181,10 @@ Site | Description
 [UserBenchmark](https://www.userbenchmark.com/) | Hardware comparison and statistics
 [WhatIsMyIPAddress](https://whatismyipaddress.com/) | Discover your public IP
 
+[Back to top](#Summary)
 ## Workspaces
 Site | Description
 :---: | :---:
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/) | Workspaces for projects / notes
-[Overleaf](https://www.overleaf.com) | Collaborative LaTeX editor
+[![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)](https://www.overleaf.com) | Collaborative LaTeX editor
 [![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)](https://prezi.com/dashboard/next/#/all) | Dynamic presentations

@@ -78,5 +78,7 @@ cmder
 
 ![zoom](https://img.shields.io/badge/zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
+[![zsh](https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)](https://ohmyz.sh/)
+
 ### Media
 [![VLC](https://img.shields.io/badge/VLC-FF8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white)](https://www.videolan.org/)

@@ -1,0 +1,28 @@
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[user]
+	name = Henrique
+	email = hss@outlook.com.br
+[init]
+	defaultBranch = master
+[credential]
+	helper = store
+[core]
+	editor = vi
+	longpaths = true
+[fetch]
+	prune = true
+[http]
+	sslBackend = gnutls
+[push]
+	autoSetupRemote = true
+[pull]
+	rebase = false
+[alias]
+	ci = commit
+	co = checkout
+	st = status
+	unco = reset --soft HEAD~1

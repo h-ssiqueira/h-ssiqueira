@@ -8,9 +8,12 @@
 
 
 ## Info
-[![Google Drive](https://img.shields.io/badge/Certificates-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/drive/folders/1VCk1tXpMATb7OQKwG1O43JoR_uE3qN0L?usp=sharing)
-[![VS Code Extensions](https://img.shields.io/badge/VS_Code_Extensions-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/h-ssiqueira/h-ssiqueira/blob/master/vscode_extensions.md)
-[![Softwares](https://img.shields.io/badge/Softwares-396cec?style=for-the-badge)](https://github.com/h-ssiqueira/h-ssiqueira/blob/master/programs.md)
+
+[![IntellijIdea](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://github.com/h-ssiqueira/h-ssiqueira/blob/master/extension/intellijPlugins.md)
+[![VS Code Extensions](https://img.shields.io/badge/VS_Code_Extensions-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/h-ssiqueira/h-ssiqueira/blob/master/extension/vscodeExtensions.md)
+
+[![Bash_aliases](https://img.shields.io/badge/Bash%20aliases-F15A24?style=for-the-badge&logo=zsh&logoColor=white)](/config/.bash_aliases)
+[![Git](https://img.shields.io/badge/Git%20Config-F05032?style=for-the-badge&logo=git&logoColor=white)](/config/.gitconfig)
 
 ## Other profiles
 

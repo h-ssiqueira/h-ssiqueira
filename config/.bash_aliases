@@ -1,0 +1,7 @@
+alias update-repos='find ~/Documents/GitHub -type d -name .git -exec sh -c '\''cd $(dirname {}); repo=$(basename $(dirname {})); echo "$repo" && git pull && echo;'\'' \;'
+alias status-repos='find ~/Documents/GitHub -type d -name .git -execdir sh -c '\''echo "$(basename "$(pwd)")"; git status && echo && echo;'\'' \; -prune'
+alias cd..='cd ..'
+alias ports='netstat -tulanp'
+alias update-apps='sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y && echo "PROGRAMS ARE UP TO DATE"'
+alias start-rabbitmq='docker run --rm -dit -e RABBITMQ_DEFAULT_USER=guest -e RABBITMQ_DEFAULT_PASS=guest -p 5672:5672 -p 15672:15672 rabbitmq:3-management'
+alias sdi='sudo docker images -a'

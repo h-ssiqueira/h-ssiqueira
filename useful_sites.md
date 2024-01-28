@@ -27,7 +27,7 @@ Site | Description
 Site | Description
 :---: | :---:
 [ASCII table](https://theasciicode.com.ar/) | Complete ASCII table
-[Data faker](datafaker.net) | Generate fake data for testing
+[Data faker](https://datafaker.net) | Generate fake data for testing
 [HemingApp](https://hemingwayapp.com/) | Improve texts
 [Iana](https://www.iana.org/assignments/media-types/media-types.xhtml) | List of all media types extensions
 [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-666666?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/web/) | Archive of websites
@@ -131,7 +131,7 @@ Site | Description
 Site | Description
 :---: | :---:
 [Cheatography](https://cheatography.com/) | Cheat sheets
-[Devhints](https://devhints.io/git-log) | CheatSheets
+[Devhints](https://devhints.io/) | CheatSheets
 [DifferenceBetween](http://www.differencebetween.net/) | Difference between similar terms and objects
 [HTTPS status cats](https://http.cat/) | Learn https status codes with cats
 [HTTPS status dogs](https://httpstatusdogs.com/) | Learn https status codes with dogs
@@ -168,7 +168,6 @@ Site | Description
 [Room styler](https://roomstyler.com/) | Design a room
 [Subnet calculator](https://www.subnet-calculator.com/subnet.php?net_class=C) | Calculate if two IPs are in the same subnet
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)](https://editor.swagger.io/) | Document your project APIs
-[Temp mail](https://temp-mail.org/pt/) | Temporary email
 
 [Back to top](#Summary)
 ## Testing
@@ -177,6 +176,7 @@ Site | Description
 [4Devs](https://www.4devs.com.br/) | Tools for testing software
 [Beeceptor](https://beeceptor.com/) | Inspect & Intercept HTTP requests
 [![SpeedTest](https://img.shields.io/badge/Speedtest-141526?style=for-the-badge&logo=speedtest&logoColor=white)](https://www.speedtest.net/) | Test your internet connection speed
+[Temp mail](https://temp-mail.org/pt/) | Temporary email
 [TestUFO](https://www.testufo.com/) | Test your monitor fresh rate
 [UserBenchmark](https://www.userbenchmark.com/) | Hardware comparison and statistics
 [WhatIsMyIPAddress](https://whatismyipaddress.com/) | Discover your public IP

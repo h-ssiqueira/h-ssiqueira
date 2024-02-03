@@ -57,6 +57,7 @@ Programs and softwares which I use.
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![gpg](https://img.shields.io/badge/gpg-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+* hexedit
 * htop
 * make
 

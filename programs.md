@@ -59,6 +59,7 @@ Programs and softwares which I use.
 ![gpg](https://img.shields.io/badge/gpg-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 * hexedit
 * htop
+* imagemagick
 * make
 
 ![maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
@@ -76,6 +77,7 @@ Programs and softwares which I use.
 * traceroute
 * unzip
 * valgrind
+* webp
 * xorriso
 * zip
 

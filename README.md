@@ -8,7 +8,7 @@
 
 ## Info
 
-[![IntellijIdea](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://github.com/h-ssiqueira/h-ssiqueira/blob/master/extension/intellijPlugins.md)
+[![IntellijIdea Plugins](https://img.shields.io/badge/intellijidea_Plugins-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://github.com/h-ssiqueira/h-ssiqueira/blob/master/extension/intellijPlugins.md)
 [![VS Code Extensions](https://img.shields.io/badge/VS_Code_Extensions-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/h-ssiqueira/h-ssiqueira/blob/master/extension/vscodeExtensions.md)
 
 [![Bash_aliases](https://img.shields.io/badge/Bash%20aliases-F15A24?style=for-the-badge&logo=zsh&logoColor=white)](/config/.bash_aliases)

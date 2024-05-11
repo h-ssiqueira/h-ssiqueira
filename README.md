@@ -4,8 +4,7 @@
 
 ## Contact
 [![Microsoft Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hss@outlook.com.br)
-[![Discord](https://dcbadge.vercel.app/api/shield/344518955517607936)](https://discordapp.com/users/344518955517607936/)
-
+[![Discord](https://dcbadge.limes.pink/api/shield/344518955517607936)](https://discordapp.com/users/344518955517607936/)
 
 ## Info
 

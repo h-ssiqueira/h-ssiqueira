@@ -32,6 +32,7 @@
 
 ## Feel free to contribute
 [![Sort_Algorithms](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=h-ssiqueira&repo=Sort_Algorithms&&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000)](https://github.com/h-ssiqueira/Sort_Algorithms)
+[![Architecture Coding Standards](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=h-ssiqueira&repo=Architecture_Coding_Standards&&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000)](https://github.com/h-ssiqueira/Architecture_Coding_Standards)
 
 [![Useful sites](https://img.shields.io/badge/Useful_sites-080A88?style=for-the-badge)](https://github.com/h-ssiqueira/h-ssiqueira/blob/master/useful_sites.md)
 

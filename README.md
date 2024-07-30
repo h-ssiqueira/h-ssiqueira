@@ -31,8 +31,8 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/henrique_ss?si=a172471e4c4a44d1)
 
 ## Feel free to contribute
-[![Sort_Algorithms](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=h-ssiqueira&repo=Sort_Algorithms&&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000)](https://github.com/h-ssiqueira/Sort_Algorithms)
-[![Architecture Coding Standards](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=h-ssiqueira&repo=Architecture_Coding_Standards&&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000)](https://github.com/h-ssiqueira/Architecture_Coding_Standards)
+[![Sort_Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=h-ssiqueira&repo=Sort_Algorithms&&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&description_lines_count=2&border_radius=9)](https://github.com/h-ssiqueira/Sort_Algorithms)
+[![Architecture Coding Standards](https://github-readme-stats.vercel.app/api/pin/?username=h-ssiqueira&repo=Architecture_Coding_Standards&&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&description_lines_count=2&border_radius=9)](https://github.com/h-ssiqueira/Architecture_Coding_Standards)
 
 [![Useful sites](https://img.shields.io/badge/Useful_sites-080A88?style=for-the-badge)](https://github.com/h-ssiqueira/h-ssiqueira/blob/master/useful_sites.md)
 

@@ -25,6 +25,7 @@ SonarLint | [SonarSource.sonarlint-vscode](https://marketplace.visualstudio.com/
 x86 and x86_64 Assembly | [13xforever.language-x86-64-assembly](https://marketplace.visualstudio.com/items?itemName=13xforever.language-x86-64-assembly) | Cutting edge x86 and x86_64 assembly syntax highlighting | 13xforever
 R | [REditorSupport.r](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) | R Extension for Visual Studio Code | REditorSupport
 YAML | [redhat.vscode-yaml](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) | YAML Language Support by Red Hat, with built-in Kubernetes syntax support | Red Hat
+NGINX Configuration | [william-voyek.vscode-nginx](https://marketplace.visualstudio.com/items?itemName=william-voyek.vscode-nginx) | Syntax highlighting for NGINX configuration files | William Voyek
 
 ### Environment
 

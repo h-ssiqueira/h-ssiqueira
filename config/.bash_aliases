@@ -9,7 +9,8 @@ alias ports='netstat -tulanp'
 # Docker
 alias start-rabbitmq='docker run --rm -dit -e RABBITMQ_DEFAULT_USER=guest -e RABBITMQ_DEFAULT_PASS=guest -p 5672:5672 -p 15672:15672 rabbitmq:3-management'
 alias sdi='sudo docker images -a'
-alias start-mysql='docker container start mysql-db'
+alias start-mysql='docker start mysql-db'
+alias start-postgres='docker start postgres-db'
 alias remove-none-images="docker images -a | grep none | awk '{ print $3; }' | xargs docker rmi"
 # Java
 alias change-java='sudo update-alternatives --config java'

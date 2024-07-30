@@ -3,10 +3,10 @@ Plugins which I use in Intellij IDEA.
 
 * Dependency-analyzer
 
-* Extra icons
+* Docker
+
+* Lombok
 
 * Maven Helper
-
-* Rainbow brackets
 
 * SonarLint

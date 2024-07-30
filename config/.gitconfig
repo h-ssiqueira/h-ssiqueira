@@ -6,6 +6,7 @@
 [user]
 	name = Henrique
 	email = hss@outlook.com.br
+	password = ${key}
 [init]
 	defaultBranch = master
 [credential]
@@ -13,6 +14,7 @@
 [core]
 	editor = vi
 	longpaths = true
+	autocrlf = input
 [fetch]
 	prune = true
 [http]

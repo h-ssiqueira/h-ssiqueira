@@ -14,6 +14,7 @@ Name | Id | Description | Publisher
 :---: | :---: | :---: | :---:
 C/C++ | [ms-vscode.cpptools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) | C/C++ IntelliSense, debugging, and code browsing. | Microsoft
 Code Runner | [formulahendry.code-runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) | Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim. | Jun Han
+Flutter | [Dart-Code.flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) | Flutter support and debugger for Visual Studio Code. | Dart Code
 Java Extension Pack | [vscjava.vscode-java-pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) | Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more | Microsoft
 Jupyter | [ms-toolsai.jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) | Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more. | Microsoft
 LinkerScript | [zixuanwang.linkerscript](https://marketplace.visualstudio.com/items?itemName=ZixuanWang.linkerscript) | Language support for GNU linker script | Zixuan Wang

@@ -22,6 +22,7 @@ MIPS Support | [kdarkhan.mips](https://marketplace.visualstudio.com/items?itemNa
 Prolog | [rebornix.prolog](https://marketplace.visualstudio.com/items?itemName=rebornix.prolog) | Prolog language support for Visual Studio Code | Peng Lv
 Python | [ms-python.python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests, and more. | Microsoft
 Pylance | [ms-python.vscode-pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) | A performant, feature-rich language server for Python in VS Code | Microsoft
+ShellCheck | [timonwong.shellcheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck) | Integrates ShellCheck into VS Code, a linter for Shell scripts. | Timon Wong
 SonarLint | [SonarSource.sonarlint-vscode](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) |  SonarLint is an IDE extension that helps you detect and fix quality issues as you write code in C, C++, Java, JavaScript, PHP, Python, HTML and TypeScript. | SonarSource
 x86 and x86_64 Assembly | [13xforever.language-x86-64-assembly](https://marketplace.visualstudio.com/items?itemName=13xforever.language-x86-64-assembly) | Cutting edge x86 and x86_64 assembly syntax highlighting | 13xforever
 R | [REditorSupport.r](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) | R Extension for Visual Studio Code | REditorSupport

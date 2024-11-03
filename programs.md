@@ -78,6 +78,7 @@ Programs and softwares which I use.
 * unzip
 * valgrind
 * webp
+* xclip
 * xorriso
 * zip
 

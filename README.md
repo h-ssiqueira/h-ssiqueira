@@ -26,6 +26,7 @@
 [![FreeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/hss)
 
 [![StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/13788141?website=false&theme=dark)](https://stackoverflow.com/users/13788141/hss)
+[![roadmap.sh](https://roadmap.sh/card/tall/653ec4ce602c6661a577697a?variant=dark)](https://roadmap.sh)
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/h_s_s)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/h_ssiqueira/)

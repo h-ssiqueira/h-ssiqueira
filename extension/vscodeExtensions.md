@@ -19,6 +19,7 @@ Java Extension Pack | [vscjava.vscode-java-pack](https://marketplace.visualstudi
 Jupyter | [ms-toolsai.jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) | Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more. | Microsoft
 LinkerScript | [zixuanwang.linkerscript](https://marketplace.visualstudio.com/items?itemName=ZixuanWang.linkerscript) | Language support for GNU linker script | Zixuan Wang
 MIPS Support | [kdarkhan.mips](https://marketplace.visualstudio.com/items?itemName=kdarkhan.mips) | Provides syntax highlighting and snippets for MIPS assembly language | kdarkhan
+PlantUML | [jebbs.plantuml](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml) | Rich PlantUML support for Visual Studio Code | jebbs
 Prolog | [rebornix.prolog](https://marketplace.visualstudio.com/items?itemName=rebornix.prolog) | Prolog language support for Visual Studio Code | Peng Lv
 Python | [ms-python.python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests, and more. | Microsoft
 Pylance | [ms-python.vscode-pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) | A performant, feature-rich language server for Python in VS Code | Microsoft

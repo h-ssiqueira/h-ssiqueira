@@ -36,7 +36,7 @@
 [![Sort_Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=h-ssiqueira&repo=Sort_Algorithms&&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&description_lines_count=2&border_radius=9)](https://github.com/h-ssiqueira/Sort_Algorithms)
 [![Architecture Coding Standards](https://github-readme-stats.vercel.app/api/pin/?username=h-ssiqueira&repo=Architecture_Coding_Standards&&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&description_lines_count=2&border_radius=9)](https://github.com/h-ssiqueira/Architecture_Coding_Standards)
 
-[![Useful sites](https://img.shields.io/badge/Useful_sites-080A88?style=for-the-badge)](https://github.com/h-ssiqueira/h-ssiqueira/blob/master/useful_sites.md)
+[![Useful sites](https://img.shields.io/badge/Useful_sites-080A88?style=for-the-badge)](https://github.com/h-ssiqueira/h-ssiqueira/blob/master/util/useful_sites.md)
 
 ## Activity
 </div>

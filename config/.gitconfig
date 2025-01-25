@@ -7,6 +7,7 @@
 	name = Henrique
 	email = hss@outlook.com.br
 	password = ${key}
+	signingkey = ~/.ssh/id_rsa.pub
 [init]
 	defaultBranch = master
 [credential]
@@ -19,8 +20,13 @@
 	prune = true
 [http]
 	sslBackend = gnutls
+[gpg]
+	format = ssh
+[commit]
+	gpgsign = true
 [push]
 	autoSetupRemote = true
+	default = current
 [pull]
 	rebase = false
 [alias]

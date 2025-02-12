@@ -24,6 +24,8 @@
 	format = ssh
 [commit]
 	gpgsign = true
+[tag]
+ gpgsign = true
 [push]
 	autoSetupRemote = true
 	default = current

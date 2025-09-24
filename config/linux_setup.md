@@ -44,9 +44,6 @@ ___
 sudo snap install postman
 ```
 ___
-## Manual installation
-Maven | DBeaver | VSCode | IntelliJ IDEA
-___
 ## Brave
 ```bash
 sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg && sudo curl -fsSLo /etc/apt/sources.list.d/brave-browser-release.sources https://brave-browser-apt-release.s3.brave.com/brave-browser.sources && sudo apt update && sudo apt install brave-browser
@@ -76,10 +73,6 @@ nvm install 22
 ___
 ## K8S
 ```bash
-curl -fsSL https://downloads.k8slens.dev/keys/gpg | gpg --dearmor | sudo tee /usr/share/keyrings/lens-archive-keyring.gpg > /dev/null
-echo "deb [arch=amd64 signed-by=/usr/share/keyrings/lens-archive-keyring.gpg] https://downloads.k8slens.dev/apt/debian stable main" | sudo tee /etc/apt/sources.list.d/lens.list > /dev/null
-sudo apt update && sudo apt install lens
-
 curl -LO https://dl.k8s.io/release/v1.33.0/bin/linux/amd64/kubectl
 sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 kubectl version --client
@@ -96,3 +89,10 @@ sudo mv ./kind /usr/local/bin/kind
 ___
 ### Open-lens Extension
 `@alebcay/openlens-node-pod-menu`
+___
+## Manual installation
+* Maven
+* DBeaver
+* VSCode
+* IntelliJ IDEA
+* OpenLens

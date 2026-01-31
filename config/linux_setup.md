@@ -40,8 +40,19 @@ sudo chmod 600 ~/.ssh/*
 ```
 ___
 ## Postman
+Install via zip and create shorcut using
 ```bash
-sudo snap install postman
+sudo nano /usr/share/applications/postman.desktop
+```
+With content:
+```txt
+[Desktop Entry]
+Type=Application
+Name=Postman
+Icon=${Installation folder}/resources/app/assets/icon.png
+Exec="${installation folder}/Postman"
+Comment=Postman Desktop App
+Categories=Development;Code;
 ```
 ___
 ## Brave
@@ -69,6 +80,15 @@ ___
 sudo apt install npm
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.2/install.sh | bash
 nvm install 22
+```
+___
+## k6
+```bash
+sudo gpg -k && \
+sudo gpg --no-default-keyring --keyring /usr/share/keyrings/k6-archive-keyring.gpg --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys C5AD17C747E3415A3642D57D77C6C491D6AC1D69 && \
+echo "deb [signed-by=/usr/share/keyrings/k6-archive-keyring.gpg] https://dl.k6.io/deb stable main" | sudo tee /etc/apt/sources.list.d/k6.list && \
+sudo apt-get update && \
+sudo apt-get install k6
 ```
 ___
 ## K8S

@@ -42,16 +42,17 @@
 </div>
 <div align="center">
     <a href="https://github.com/h-ssiqueira/h-ssiqueira">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ssiqueira&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata&custom_title=Most%20recently%20used%20languages" alt="Most recently used languages">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h-ssiqueira&hide=issues&show_icons=true&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true" alt="GitHub stats">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=h-ssiqueira&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
-	<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation">
-	<img src="https://raw.githubusercontent.com/h-ssiqueira/h-ssiqueira/output/dist/space-shooter.gif" alt="Space Shooter animation">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ssiqueira&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata&custom_title=Most%20recently%20used%20languages" alt="Most recently used languages">
+	    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h-ssiqueira&hide=issues&show_icons=true&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true" alt="GitHub stats">
+		<img src="https://github-readme-activity-graph.vercel.app/graph?username=h-ssiqueira&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
+		<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/dist/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation">
+		<br>
+		<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/dist/space-shooter.gif?raw=true" alt="Space Shooter animation">
 	</a>
 	<br>
 	<details open>
 		<summary>More statistics</summary>
-		<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/profile-3d-contrib/profile-night-green.svg" alt="profile-3d">
+		<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/profile-3d-contrib/profile-night-green.svg?raw=true" alt="profile-3d">
 		<a href="https://metrics.lecoq.io/insights/h-ssiqueira"><p>Metrics Lecoq</p></a>
 		<a href="https://octoprofile.vercel.app/user?id=h-ssiqueira"><p>Octo Profile</p></a>
 		<br>

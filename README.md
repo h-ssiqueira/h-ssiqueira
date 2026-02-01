@@ -46,6 +46,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h-ssiqueira&hide=issues&show_icons=true&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true" alt="GitHub stats">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=h-ssiqueira&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
 	<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+	<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/dist/space-shooter.gif" alt="Space Shooter animation">
 	</a>
 	<br>
 	<details open>

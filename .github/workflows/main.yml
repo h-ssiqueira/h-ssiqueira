@@ -30,6 +30,14 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.SNAKE_CONTRIBUTION }}
+      - uses: czl9707/gh-space-shooter@v1
+        id: space-shooter-gif
+        with:
+          github-token: ${{ secrets.SNAKE_CONTRIBUTION }}
+          output-path: 'dist/space-shooter.gif'
+          username: 'h-ssiqueira'
+          strategy: 'random'
+          fps: 20
       - name: Commit & Push
         run: |
           git config user.name github-actions

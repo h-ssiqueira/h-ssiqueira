@@ -10,7 +10,7 @@ sudo apt install nvidia-driver-xxx
 ___
 ## Basic Tools
 ```bash
-sudo apt install git net-tools htop openjdk-XX-jdk curl ca-certificates
+sudo apt install git net-tools htop openjdk-XX-jdk curl ca-certificates cmake build-essential nvidia-cuda-toolkit
 ```
 ___
 ## ZSH
@@ -81,6 +81,30 @@ sudo apt install npm
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.2/install.sh | bash
 nvm install 22
 ```
+___
+## UV
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh\
+```
+___
+## APM
+```bash
+curl -sSL https://aka.ms/apm-unix | sh
+```
+___
+## GPU LLMs
+* For old GPUs:
+```bash
+git clone https://github.com/ggml-org/llama.cpp.git
+cmake -B build \\
+  -DGGML_CUDA=ON \\
+  -DCMAKE_CUDA_ARCHITECTURES=52
+cmake --build build --config Release -j$(nproc)
+```
+* Download models in hugging face
+* Use scripts to start models:
+  * llamafile
+  * llama.cpp
 ___
 ## k6
 ```bash
